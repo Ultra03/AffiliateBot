@@ -1,0 +1,23 @@
+{
+  "name": "affiliatebot",
+  "version": "1.0.0",
+  "description": "Affiliate management bot for Discord",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ultra03/AffiliateBot.git"
+  },
+  "author": "Ultra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ultra03/AffiliateBot/issues"
+  },
+  "homepage": "https://github.com/Ultra03/AffiliateBot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "discord.js-prompts": "^2.2.1"
+  }
+}
